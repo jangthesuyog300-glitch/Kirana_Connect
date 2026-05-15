@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Kirana Connect
 
 A powerful hyperlocal grocery marketplace connecting customers with nearby kirana stores in real-time.
@@ -58,4 +59,6 @@ cd store-app && npm install && npm run start
 For deep dives into the architecture, API, and workflows, please refer to the [**Technical Documentation**](TECHNICAL_DOCS.md).
 
 *Built with ❤️ using React Native, Expo, Node.js, and Supabase.*
+=======
+>>>>>>> 631e616f1eac5a509bd036f5a4f281e407309c6b
 # Kirana_Connect
