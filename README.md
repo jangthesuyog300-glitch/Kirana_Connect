@@ -58,3 +58,4 @@ cd store-app && npm install && npm run start
 For deep dives into the architecture, API, and workflows, please refer to the [**Technical Documentation**](TECHNICAL_DOCS.md).
 
 *Built with ❤️ using React Native, Expo, Node.js, and Supabase.*
+# Kirana_Connect
